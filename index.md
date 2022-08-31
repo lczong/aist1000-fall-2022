@@ -16,8 +16,8 @@ This course covers the basic concepts, problems, approaches and applications of 
 Lecturer: 
 Yu LI (<span style="color: #0099e6">liyuATcse.cuhk.edu.hk</span>), SHB-106. Office hour: 3pm-5pm, Friday <br>
 TA: 
-- Licheng ZONG (<span style="color: #0099e6">lczongATlink.cuhk.edu.hk</span>), SHB-1026. Office hour: 
-- Zhihang HU (<span style="color: #0099e6">zhhu21ATcse.cuhk.edu.hk</span>), SHB-1026. Office hour:  <br>
+- Licheng ZONG (<span style="color: #0099e6">lczongATlink.cuhk.edu.hk</span>), SHB-1026. Office hour: 3pm-5pm Tuesday 
+- Zhihang HU (<span style="color: #0099e6">zhhu21ATcse.cuhk.edu.hk</span>), SHB-1026. Office hour: 2pm-4pm Thursday  <br>
 
 #### Time and location
 <b>Tuesday</b>: <b>10:30am-12:00pm</b>, <b>LPN-LT</b>. <br>
@@ -35,7 +35,7 @@ Onsite. This is a seminar course, for which we have a number of speakers. For so
 
 #### Grading
 <ul>
-<li><b>Attendance (20%)</b>: Attendance checking every week from Week 2 (2% each)</li>
+<li><b>Attendance (20%)</b>: Attendance checking every week from Week 2 (2% each).</li>
 <li><b>Scribing (20%)</b>: Graded scribing. Summarize the lectures. Submit it within one week after the lecture. Each student should do at least two lectures (10% for each). You can sign for at most three, for additional 1%.</li>
 <li><b>In-class quiz (10%)</b>: One in-class quizzes. The questions will be simple. Mainly for checking the participation. The exact date are in the below <a href="#schedule_materials">schedule</a>.</li>
 <li><b>Project (50%)</b>: A grading project. You should submit a proposal (10%) a final report (20%) and give a presentation (20%). </li>
@@ -60,7 +60,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 ### <a id="schedule_materials">Course schedule and materials</a>
 
 | Lec | Date | Location | Topic | Lecturer | Contact | Slides/Video | Notes | Important dates (All due at **<span style="color:red;">11:59 pm</span>**)
-| ------ |------ |-------| ------| -----| ----- |-------|-------|---------|----------------
+| ------ |------ |-------| ------| -----| ----- |-------|-------|---------|
 | 1 |   Sep-06 | LPN LT | Course overview and logistics	| Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |
 | 2 |	Sep-13 | LPN LT | Project pitch, AI for drug discovery | Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |	
 | 3 |	Sep-20 | LPN LT | Prof King's journey in AI	| Prof. Irwin King (CSE) | kingATcse.cuhk.edu.hk |	
@@ -71,5 +71,5 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 8 |	Nov-01 | LPN LT | Theory, optimization, and finance | Prof. Anthony So (SEEM) | manchosoATse.cuhk.edu.hk	
 | 9 |	Nov-08 | LPN LT | Large-scale machine learning and hardware | Prof. Bei Yu (CSE) | byuATcse.cuhk.edu.hk | | | | 
 | 10 |	Nov-15 | LPN LT | Multi-modality AI system | Prof. Liwei Wang (CSE)	| lwwangATcse.cuhk.edu.hk | | | | 
-| 11 |	Nov-22 | LPN LT | Project presentation | Students | | | | Quiz |			
+| 11 |	Nov-22 | LPN LT | Project presentation | Students | | | | **<span style="color:red;">Quiz</span>** |			
 | 12 |	Nov-29 | LPN LT | Project presentation | Students			
