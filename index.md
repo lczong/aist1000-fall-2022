@@ -1,6 +1,7 @@
 ---
 name: AIST1000 - Fall2022
 title: null
+title-heading: false
 layout: default
 ---
 
