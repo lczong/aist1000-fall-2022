@@ -1,12 +1,7 @@
----
-layout: default
-title: AIST1000-Fall 2022
----
-
 ## AIST1000: Introduction to Artificial Intelligence and Machine Learning-Fall 2022
 
-[<a href="https://forms.gle/">Pre-course survey</a>, <a href="https://www.piazza.com/cuhk.edu.hk/fall2022/aist1000">Piazza</a>, 
-<a href="https://docs.google.com/spreadsheets/">Scribing preference</a>,
+[<a href="https://forms.gle/BG2CPg5hqbRv9KUH6">Pre-course survey</a>, <a href="https://www.piazza.com/cuhk.edu.hk/fall2022/aist1000">Piazza</a>, 
+<a href="https://docs.google.com/spreadsheets/d/1KnBVwOY0zNKy_I34AC6GzPFyVbRk3rK5hk_NbzR4Zdw/edit?usp=sharing">Scribing preference</a>,
 <a href="#logistics">Logistics</a>, <a href="#schedule_materials">Course schedule and materials</a>]
 
 ### <a>Course description</a>
@@ -16,8 +11,8 @@ This course covers the basic concepts, problems, approaches and applications of 
 Lecturer: 
 Yu LI (<span style="color: #0099e6">liyuATcse.cuhk.edu.hk</span>), SHB-106. Office hour: 3pm-5pm, Friday <br>
 TA: 
-- Licheng ZONG (<span style="color: #0099e6">lczongATlink.cuhk.edu.hk</span>), SHB-1026. Office hour: 3pm-5pm Tuesday 
-- Zhihang HU (<span style="color: #0099e6">zhhu21ATcse.cuhk.edu.hk</span>), SHB-1026. Office hour: 2pm-4pm Thursday  <br>
+- Licheng ZONG (<span style="color: #0099e6">lczongATlink.cuhk.edu.hk</span>), SHB-1026. Office hour: 2pm-4pm Thursday
+- Zhihang HU (<span style="color: #0099e6">zhhu21ATcse.cuhk.edu.hk</span>), SHB-1026. Office hour: 3pm-5pm Tuesday  <br>
 
 #### Time and location
 <b>Tuesday</b>: <b>10:30am-12:00pm</b>, <b>LPN-LT</b>. <br>
@@ -45,7 +40,7 @@ Onsite. This is a seminar course, for which we have a number of speakers. For so
 
 
 #### Scribing
-Please sign <a href="https://docs.google.com/spreadsheets/d/10Bo2nCfcPtP2JPXrLRqlSptPGxC5pjALsIaJST4rrDQ/edit?usp=sharing">Scribing preference</a>. We should have at least one student for each lecture. We may adjust the assignment if necessary. Notice that your note and scribing will be posted online, for others reference. You can choose to remove your name or not. Deadline for signing the scribing: **<span style="color:red;">11:59 pm on 17th Jan</span>**. After that, the Google sheet will be closed.
+Please sign <a href="https://docs.google.com/spreadsheets/d/1KnBVwOY0zNKy_I34AC6GzPFyVbRk3rK5hk_NbzR4Zdw/edit?usp=sharing">Scribing preference</a>. We should have at least one student for each lecture. We may adjust the assignment if necessary. Notice that your note and scribing will be posted online, for others reference. You can choose to remove your name or not. Deadline for signing the scribing: **<span style="color:red;">11:59 pm on 19th Sep</span>**. After that, the Google sheet will be closed.
 
 #### Projects
 You should do the project individually. You should submit a proposal (10%), a final report (20%) and give a presentation (20%). <b>Both the lecturer (80%) and the students (20%) will be the markers</b>.
@@ -54,12 +49,12 @@ You should do the project individually. You should submit a proposal (10%), a fi
 Each student will have <b>6 late days</b> to turn in scribing, project proposal, and project final report. A maximum of 2 late days can be used for each assignment. Grades will be deducted by 25% for each additional late day. 
 
 #### Post-lecture survey
-Deadline for each survey: **<span style="color:red;">11:59pm on the day before the next lecture</span>**. We do this because I could have time to answer the questions you mentioned in the survey. Please fill 1 in the Google sheet: <a href="https://docs.google.com/spreadsheets/d/1vXhnHtXSCyVPWVe09feEfEmNwkCcOly8DeicFA2ZxkQ/edit?usp=sharing">Survey results</a>, once you have finished one survey. Usually, we will trust the 1s you fill in the Google sheet. But we will check the things in detail if the number of survey forms we received and the number of 1s on the Google sheet is not consistent.
+Deadline for each survey: **<span style="color:red;">11:59pm on the day before the next lecture</span>**. We do this because I could have time to answer the questions you mentioned in the survey. Please fill 1 in the Google sheet: <a href="https://docs.google.com/spreadsheets/d/1MXR6yEputJY6ZQLPdeWB4hzwMTOpAacOP2BQOZ_kuNs/edit?usp=sharing">Survey results</a>, once you have finished one survey. Usually, we will trust the 1s you fill in the Google sheet. But we will check the things in detail if the number of survey forms we received and the number of 1s on the Google sheet is not consistent.
 
 
 ### <a id="schedule_materials">Course schedule and materials</a>
 
-| Lec | Date | Location | Topic | Lecturer | Contact | Slides/Video | Notes | Important dates (All due at **<span style="color:red;">11:59 pm</span>**)
+| Lec | Date | Location | Topic | Lecturer | Contact | Slides/Video | Notes | Important dates (All due at **<span style="color:red;">11:59 pm</span>**) |
 | ------ |------ |-------| ------| -----| ----- |-------|-------|---------|
 | 1 |   Sep-06 | LPN LT | Course overview and logistics	| Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |
 | 2 |	Sep-13 | LPN LT | Project pitch, AI for drug discovery | Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |	
