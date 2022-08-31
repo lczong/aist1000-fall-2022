@@ -1,9 +1,10 @@
 ---
-title: AIST 1000 - Fall 2022
+title: AIST1000 - Fall2022
+title-heading: false
 layout: default
 ---
 
-## Introduction to Artificial Intelligence and Machine Learning
+## AIST1000: Introduction to Artificial Intelligence and Machine Learning-Fall 2022
 
 [<a href="https://forms.gle/BG2CPg5hqbRv9KUH6">Pre-course survey</a>, <a href="https://www.piazza.com/cuhk.edu.hk/fall2022/aist1000">Piazza</a>, 
 <a href="https://docs.google.com/spreadsheets/d/1KnBVwOY0zNKy_I34AC6GzPFyVbRk3rK5hk_NbzR4Zdw/edit?usp=sharing">Scribing preference</a>,
