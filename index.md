@@ -1,4 +1,9 @@
-## AIST1000: Introduction to Artificial Intelligence and Machine Learning-Fall 2022
+---
+title: AIST 1000 - Fall 2022
+layout: default
+---
+
+## Introduction to Artificial Intelligence and Machine Learning
 
 [<a href="https://forms.gle/BG2CPg5hqbRv9KUH6">Pre-course survey</a>, <a href="https://www.piazza.com/cuhk.edu.hk/fall2022/aist1000">Piazza</a>, 
 <a href="https://docs.google.com/spreadsheets/d/1KnBVwOY0zNKy_I34AC6GzPFyVbRk3rK5hk_NbzR4Zdw/edit?usp=sharing">Scribing preference</a>,
@@ -59,12 +64,12 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 1 |   Sep-06 | LPN LT | Course overview and logistics	| Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |
 | 2 |	Sep-13 | LPN LT | Project pitch, AI for drug discovery | Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |	
 | 3 |	Sep-20 | LPN LT | Prof King's journey in AI	| Prof. Irwin King (CSE) | kingATcse.cuhk.edu.hk |	
-| 4 |	Sep-27 | LPN LT | Biomedical intelligence | Prof. Raymond Tong (BME) | kytongATcuhk.edu.hk | | | |  | 
-| 5 |	Oct-11 | LPN LT | Intelligent multimedia processing: CV	| Prof. Hongsheng Li (EE) | hsliATee.cuhk.edu.hk	
-| 6 |	Oct-18 | LPN LT | Intelligent multimedia processing: Speech and language | Prof Tan Lee	(EE) | tanleeATee.cuhk.edu.hk	
-| 7 |	Oct-25 | LPN LT | Intelligent Robotics | Prof. Qi Dou (CSE)	| qdouATcse.cuhk.edu.hk	
-| 8 |	Nov-01 | LPN LT | Theory, optimization, and finance | Prof. Anthony So (SEEM) | manchosoATse.cuhk.edu.hk	
-| 9 |	Nov-08 | LPN LT | Large-scale machine learning and hardware | Prof. Bei Yu (CSE) | byuATcse.cuhk.edu.hk | | | | 
-| 10 |	Nov-15 | LPN LT | Multi-modality AI system | Prof. Liwei Wang (CSE)	| lwwangATcse.cuhk.edu.hk | | | | 
+| 4 |	Sep-27 | LPN LT | Biomedical intelligence | Prof. Raymond Tong (BME) | kytongATcuhk.edu.hk |
+| 5 |	Oct-11 | LPN LT | Intelligent multimedia processing: CV	| Prof. Hongsheng Li (EE) | hsliATee.cuhk.edu.hk |
+| 6 |	Oct-18 | LPN LT | Intelligent multimedia processing: Speech and language | Prof Tan Lee	(EE) | tanleeATee.cuhk.edu.hk |
+| 7 |	Oct-25 | LPN LT | Intelligent Robotics | Prof. Qi Dou (CSE)	| qdouATcse.cuhk.edu.hk	|
+| 8 |	Nov-01 | LPN LT | Theory, optimization, and finance | Prof. Anthony So (SEEM) | manchosoATse.cuhk.edu.hk |
+| 9 |	Nov-08 | LPN LT | Large-scale machine learning and hardware | Prof. Bei Yu (CSE) | byuATcse.cuhk.edu.hk |
+| 10 |	Nov-15 | LPN LT | Multi-modality AI system | Prof. Liwei Wang (CSE)	| lwwangATcse.cuhk.edu.hk |
 | 11 |	Nov-22 | LPN LT | Project presentation | Students | | | | **<span style="color:red;">Quiz</span>** |			
-| 12 |	Nov-29 | LPN LT | Project presentation | Students			
+| 12 |	Nov-29 | LPN LT | Project presentation | Students |	
