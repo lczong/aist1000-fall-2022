@@ -63,15 +63,15 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 
 | Lec | Date | Location | Topic | Lecturer | Contact | Slides/Video | Notes | Important dates (All due at **<span style="color:red;">11:59 pm</span>**) |
 | ------ |------ |-------| ------| -----| ----- |-------|-------|---------|
-| 1 |   Sep-06 | LPN LT | Course overview and logistics	| Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |
-| 2 |	Sep-13 | LPN LT | Project pitch, AI for drug discovery | Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |	
+| 1 |   Sep-06 | LPN LT | Course overview and logistics	| Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk | <a href="https://www.dropbox.com/s/7fh9ne8nh8nbuws/lec1-Intro.pdf?dl=0">Lec-1</a>
+| 2 |	Sep-13 | LPN LT | AI project overview, AI for drug discovery | Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |	
 | 3 |	Sep-20 | LPN LT | Prof King's journey in AI	| Prof. Irwin King (CSE) | kingATcse.cuhk.edu.hk |	
 | 4 |	Sep-27 | LPN LT | Biomedical intelligence | Prof. Raymond Tong (BME) | kytongATcuhk.edu.hk |
 | 5 |	Oct-11 | LPN LT | Intelligent multimedia processing: CV	| Prof. Hongsheng Li (EE) | hsliATee.cuhk.edu.hk |
-| 6 |	Oct-18 | LPN LT | Intelligent multimedia processing: Speech and language | Prof Tan Lee	(EE) | tanleeATee.cuhk.edu.hk |
+| 6 |	Oct-18 | LPN LT | Intelligent multimedia processing: Speech and language | Prof Tan Lee	(EE) | tanleeATee.cuhk.edu.hk | | | **<span style="color:red;">Proposal</span>**
 | 7 |	Oct-25 | LPN LT | Intelligent Robotics | Prof. Qi Dou (CSE)	| qdouATcse.cuhk.edu.hk	|
 | 8 |	Nov-01 | LPN LT | Theory, optimization, and finance | Prof. Anthony So (SEEM) | manchosoATse.cuhk.edu.hk |
 | 9 |	Nov-08 | LPN LT | Large-scale machine learning and hardware | Prof. Bei Yu (CSE) | byuATcse.cuhk.edu.hk |
 | 10 |	Nov-15 | LPN LT | Multi-modality AI system | Prof. Liwei Wang (CSE)	| lwwangATcse.cuhk.edu.hk |
 | 11 |	Nov-22 | LPN LT | Project presentation | Students | | | | **<span style="color:red;">Quiz</span>** |			
-| 12 |	Nov-29 | LPN LT | Project presentation | Students |	
+| 12 |	Nov-29 | LPN LT | Project presentation | Students |	| | **<span style="color:red;">Report</span>**
