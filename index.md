@@ -74,4 +74,4 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 9 |	Nov-08 | LPN LT | Large-scale machine learning and hardware | Prof. Bei Yu (CSE) | byuATcse.cuhk.edu.hk |
 | 10 |	Nov-15 | LPN LT | Multi-modality AI system | Prof. Liwei Wang (CSE)	| lwwangATcse.cuhk.edu.hk |
 | 11 |	Nov-22 | LPN LT | Project presentation | Students | | | | **<span style="color:red;">Quiz</span>** |			
-| 12 |	Nov-29 | LPN LT | Project presentation | Students |	| | **<span style="color:red;">Report</span>**
+| 12 |	Nov-29 | LPN LT | Project presentation | Students |	| | | **<span style="color:red;">Report</span>**
