@@ -63,8 +63,9 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 
 | Lec | Date | Location | Topic | Lecturer | Contact | Slides/Video | Notes | Important dates (All due at **<span style="color:red;">11:59 pm</span>**) |
 | ------ |------ |-------| ------| -----| ----- |-------|-------|---------|
-| 1 |   Sep-06 | LPN LT | Course overview and logistics	| Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk | <a href="https://www.dropbox.com/s/7fh9ne8nh8nbuws/lec1-Intro.pdf?dl=0">Lec-1</a>
-| 2 |	Sep-13 | LPN LT | AI project overview, AI for drug discovery | Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |	
+| 1 |   Sep-06 | LPN LT | Course overview and logistics	| Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk | <a href="https://www.dropbox.com/s/7fh9ne8nh8nbuws/lec1-Intro.pdf?dl=0">Lec-1</a>, <a href="https://www.dropbox.com/s/k97vxfkvz7n28c4/AIST-2022.pdf?dl=0">AIST-2022</a>
+| 2 |	Sep-13 | LPN LT | AI project overview, AI for drug discovery | Prof. Yu Li (CSE) | liyuATcse.cuhk.edu.hk |	<a href="https://www.dropbox.com/s/gl1vltnurt1ez22/lec2.pdf?dl=0">Lec-2</a>, <a href="https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
+">Reading material</a>
 | 3 |	Sep-20 | LPN LT | Prof King's journey in AI	| Prof. Irwin King (CSE) | kingATcse.cuhk.edu.hk |	
 | 4 |	Sep-27 | LPN LT | Biomedical intelligence | Prof. Raymond Tong (BME) | kytongATcuhk.edu.hk |
 | 5 |	Oct-11 | LPN LT | Intelligent multimedia processing: CV	| Prof. Hongsheng Li (EE) | hsliATee.cuhk.edu.hk |
