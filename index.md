@@ -68,7 +68,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 3 |	Sep-20 | LPN LT | Prof King's journey in AI	| Prof. Irwin King (CSE) | kingATcse.cuhk.edu.hk | <a href="https://www.dropbox.com/s/63cwxasycf5wela/lec3.pdf?dl=0">Lec-3</a>	| CSE department chairman
 | 4 |	Sep-27 | LPN LT | Biomedical intelligence | Prof. Raymond Tong (BME) | kytongATcuhk.edu.hk | <a href="https://www.dropbox.com/s/danaogkruyokazv/lec4.pdf?dl=0">Lec-4</a> | BME department chairman
 | 5 |	Oct-11 | LPN LT | Intelligent multimedia processing: CV	| Prof. Hongsheng Li (EE) | hsliATee.cuhk.edu.hk | <a href="https://www.dropbox.com/s/6y7i0efrccgno3i/lec5.pdf?dl=0">Lec-5</a>
-| 6 |	Oct-18 | LPN LT | Intelligent robotics | Prof. Qi Dou (CSE)	| qdouATcse.cuhk.edu.hk	| | | **<span style="color:red;">Proposal</span>**
+| 6 |	Oct-18 | LPN LT | Intelligent robotics | Prof. Qi Dou (CSE)	| qdouATcse.cuhk.edu.hk	| <a href="https://www.dropbox.com/s/3wi26141qebvxqb/lec6.pdf?dl=0">Lec-6</a> | | **<span style="color:red;">Proposal</span>**
 | 7 |	Oct-25 | LPN LT | Intelligent multimedia processing: Speech and language | Prof Tan Lee	(EE) | tanleeATee.cuhk.edu.hk |
 | 8 |	Nov-01 | LPN LT | Optimization for machine learning | Prof. Anthony So (SEEM) | manchosoATse.cuhk.edu.hk |
 | 9 |	Nov-08 | LPN LT | Multi-modality AI system | Prof. Liwei Wang (CSE)	| lwwangATcse.cuhk.edu.hk |
