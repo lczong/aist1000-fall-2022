@@ -71,7 +71,7 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 6 |	Oct-18 | LPN LT | Intelligent robotics | Prof. Qi Dou (CSE)	| qdouATcse.cuhk.edu.hk	| <a href="https://www.dropbox.com/s/3wi26141qebvxqb/lec6.pdf?dl=0">Lec-6</a> | | **<span style="color:red;">Proposal</span>**
 | 7 |	Oct-25 | LPN LT | Intelligent multimedia processing: Speech and language | Prof Tan Lee	(EE) | tanleeATee.cuhk.edu.hk |  <a href="https://www.dropbox.com/s/lj85rhwrokgl02w/lec7.pdf?dl=0">Lec-7</a> | Associate Dean for Education in the Faculty of Engineering, CUHK Vice-Chancellor's Exemplary Teaching Award, Faculty of Engineering's Exemplary Teaching Awards*12
 | 8 |	Nov-01 | LPN LT | Optimization for machine learning | Prof. Anthony So (SEEM) | manchosoATse.cuhk.edu.hk | <a href="https://www.dropbox.com/s/sr5qlei2yysopz6/lec8.pdf?dl=0">Lec-8</a> | UGC Teaching Award-2022,  CUHK Vice-Chancellor’s Exemplary Teaching Award-2013
-| 9 |	Nov-08 | LPN LT | Multi-modality AI system | Prof. Liwei Wang (CSE)	| lwwangATcse.cuhk.edu.hk |
+| 9 |	Nov-08 | LPN LT | Multi-modality AI system | Prof. Liwei Wang (CSE)	| lwwangATcse.cuhk.edu.hk | <a href="https://www.dropbox.com/s/mlhoww16amwmi2p/lec9.pdf?dl=0">Lec-9</a>
 | 10 |	Nov-15 | LPN LT | Large-scale machine learning and hardware | Prof. Bei Yu (CSE) | byuATcse.cuhk.edu.hk |
 | 11 |	Nov-22 | LPN LT | Project presentation | Students | | | | **<span style="color:red;">Quiz</span>** |			
 | 12 |	Nov-29 | LPN LT | Project presentation | Students |	| | | **<span style="color:red;">Report</span>**
