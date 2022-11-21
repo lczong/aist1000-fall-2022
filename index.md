@@ -73,5 +73,5 @@ Deadline for each survey: **<span style="color:red;">11:59pm on the day before t
 | 8 |	Nov-01 | LPN LT | Optimization for machine learning | Prof. Anthony So (SEEM) | manchosoATse.cuhk.edu.hk | <a href="https://www.dropbox.com/s/sr5qlei2yysopz6/lec8.pdf?dl=0">Lec-8</a> | UGC Teaching Award-2022,  CUHK Vice-Chancellor’s Exemplary Teaching Award-2013
 | 9 |	Nov-08 | LPN LT | Multi-modality AI system | Prof. Liwei Wang (CSE)	| lwwangATcse.cuhk.edu.hk | <a href="https://www.dropbox.com/s/mlhoww16amwmi2p/lec9.pdf?dl=0">Lec-9</a>
 | 10 |	Nov-15 | LPN LT | Large-scale machine learning and hardware | Prof. Bei Yu (CSE) | byuATcse.cuhk.edu.hk | <a href="https://www.dropbox.com/s/kcpotv9451lgp0i/lec10.pdf?dl=0">Lec-10</a>
-| 11 |	Nov-22 | LPN LT | Project presentation | Students | <a href="https://www.dropbox.com/s/fi2ycf5cb7gotxk/lec11.pdf?dl=0">Lec-11</a> | | | **<span style="color:red;">Quiz</span>** |			
+| 11 |	Nov-22 | LPN LT | Project presentation | Students |  | <a href="https://www.dropbox.com/s/fi2ycf5cb7gotxk/lec11.pdf?dl=0">Lec-11</a> | | **<span style="color:red;">Quiz</span>** |			
 | 12 |	Nov-29 | LPN LT | Project presentation | Students |	| | | **<span style="color:red;">Report</span>**
